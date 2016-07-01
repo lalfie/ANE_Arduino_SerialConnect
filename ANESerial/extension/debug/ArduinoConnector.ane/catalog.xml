@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding ="utf-8"?>
+<swc xmlns="http://www.adobe.com/flash/swccatalog/9">
+  <versions>
+    <swc version="1.2" />
+    <flex version="4.6.0" build="23201" minimumSupportedVersion="3.0.0" />
+  </versions>
+  <features>
+    <feature-script-deps />
+    <feature-files />
+  </features>
+  <libraries>
+    <library path="library.swf">
+      <script name="com/quetwo/Arduino/ArduinoConnector" mod="1357339301000" signatureChecksum="840848248" >
+        <def id="com.quetwo.Arduino:ArduinoConnector" /> 
+        <dep id="com.quetwo.Arduino:ArduinoConnectorEvent" type="e" /> 
+        <dep id="flash.utils:ByteArray" type="e" /> 
+        <dep id="trace" type="e" /> 
+        <dep id="flash.events:StatusEvent" type="e" /> 
+        <dep id="flash.filesystem:File" type="e" /> 
+        <dep id="flash.external:ExtensionContext" type="e" /> 
+        <dep id="Error" type="e" /> 
+        <dep id="com.quetwo.Arduino:ArduinoConnectorEvent" type="s" /> 
+        <dep id="flash.utils:ByteArray" type="s" /> 
+        <dep id="flash.events:StatusEvent" type="s" /> 
+        <dep id="RegExp" type="s" /> 
+        <dep id="flash.filesystem:File" type="s" /> 
+        <dep id="flash.external:ExtensionContext" type="s" /> 
+        <dep id="Error" type="s" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="flash.events:EventDispatcher" type="i" /> 
+      </script>
+      <script name="com/quetwo/Arduino/ArduinoConnectorEvent" mod="1341240594000" signatureChecksum="1571770924" >
+        <def id="com.quetwo.Arduino:ArduinoConnectorEvent" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="flash.events:ProgressEvent" type="i" /> 
+      </script>
+      <script name="_af0d804948ba9abee79e5402379259d1a2e00d59cc73a8ed83571c3cafcc1b3d_flash_display_Sprite" mod="1357339683609" signatureChecksum="1072790445" >
+        <def id="_af0d804948ba9abee79e5402379259d1a2e00d59cc73a8ed83571c3cafcc1b3d_flash_display_Sprite" /> 
+        <dep id="flash.system:Security" type="e" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="flash.display:Sprite" type="i" /> 
+      </script>
+      <digests>
+        <digest type="SHA-256" signed="false" value="1d55b8e06a63f342bd336a9f0ba2d9c4d5929c82a68a841835802c30d1fefe31"   />
+      </digests>
+    </library>
+  </libraries>
+  <files>
+  </files>
+</swc>
